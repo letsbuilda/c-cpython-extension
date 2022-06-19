@@ -1,1 +1,1 @@
-# c-python-extension
+# Let's build an extension for Python with C
