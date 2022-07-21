@@ -1,4 +1,4 @@
-# Let's build an extension for Python with C
+# Let's build an extension for CPython with C
 
 Building an extension using C allows you to use C functions in your Python code.
 
